@@ -3,7 +3,7 @@
 | 🌎 Terrain      | MineScale            |
 | 🧱 Obsidian     | Arshu                |
 | 💎 Crystal      | Arshu                |
-| 💎 Held crystal | Our 2D version       |
+| 💎 Held crystal | minescale      |
 | 🧪 Potions      | zPansitoA            |
 | 🕸️ Cobweb      | zPansitoA |
 | 🔥 Fire         | Arshu                |
